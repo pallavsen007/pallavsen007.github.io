@@ -3,7 +3,7 @@ title: The Foreign Exchange
 published: true
 ---
 
-## This is my first short story which I had written as a undergraduate
+## The Foreign Exchange
 
 The fan was swinging to its full extent, when Heinrich Wilmut and Abhinash
 Borah sharing one cigarette in their University hostel, Heinrich breached on the
