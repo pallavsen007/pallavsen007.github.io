@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Graduate Student studying protein ligand binding including drug design. Learning and plying the tools of the trade!
