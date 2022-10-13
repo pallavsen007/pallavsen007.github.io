@@ -27,6 +27,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+timezone: TIMEZONE
+
 # Custom variables
 owner : "Pallav"
 year : "2022"
