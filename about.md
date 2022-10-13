@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Graduate Student studying protein ligand binding including drug design. Learning and plying the tools of the trade!
+## My name is Pallav Sengupta and I am currently pursuing my PhD under the supervison of Dr. Priyadarshi Satpati
+## my research focuses on studying protein ligand binding including drug design. Learning and plying the tools of the trade!
